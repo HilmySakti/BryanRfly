@@ -10,6 +10,8 @@
 
 - 📝 I'm currently working on [`BryanRfly`](https://github.com/BryanRfly/) 
 
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
@@ -40,6 +42,16 @@
 <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsmeikyXSec4O4" />
 </p>
+
+
+## Introductiong My Self
+```
+> Name: Bryan Raflyansah
+> Status: Student at SMPN 4 Boyolali
+> Address: Boyolali, Jawa Tengah, Inodonesia
+> Age: 15 Years Old
+> Date Of Birth: May 9,2006
+```
 
  ## SOSIAL MEDIA
 
