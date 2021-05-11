@@ -44,7 +44,7 @@
 </p>
 
 
-## Introductiong My Self
+# INTRODUCTING MY SELF 
 ```
 > Name: Bryan Raflyansah
 > Status: Student at SMPN 4 Boyolali
@@ -53,7 +53,7 @@
 > Date Of Birth: May 9,2006
 ```
 
- ## SOSIAL MEDIA
+ # SOSIAL MEDIA 
 
 
 * [![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://ig.me/bryanrflynsh)
@@ -62,9 +62,9 @@
 
 * [![Telegram](https://img.shields.io/badge/Telegram-009bff?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BryanRfly)
 
-# Support Me💵
+# SUPPORT ME 
 
-* [![PayPal](https://img.shields.io/badge/Paypal-0033ef?style=for-the-badge&logo=paypal&logoColor=white)](https://t.me/BryanRfly)
+* [![PayPal](https://img.shields.io/badge/Paypal-0033ef?style=for-the-badge&logo=paypal&logoColor=white)](https://link.dana.id/qr/2mumvsa3)
 
 
 <!---
