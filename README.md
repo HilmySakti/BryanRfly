@@ -1,14 +1,14 @@
 <h1 align="center">そのメイキー<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>Hello I'm BryanRfly!</h1>
 
 <p align="center">
-<img src="https://i.ibb.co/PCpJRqd/pepeq.jpg" width="80%" alt="API Giphy logo"/>
+<img src="https://i.ibb.co/wrdMgWx/20210521-141142.jpg" width="80%" alt="20210521-141142"/>
 </p>
 
 - 🌱 I’m currently learning *WhatsApp Bot*.
 
 - 👀 I'm currently focusing on *JavaScript*.
 
-- 📝 I'm currently working on [`BryanRfly`](https://github.com/BryanRfly/) 
+- 📝 I'm currently working on [`HilmySakti`](https://github.com/HilmySakti/) 
 
 
 
@@ -26,13 +26,13 @@
   <img src="https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code" />
   <img src="https://img.shields.io/badge/-SQLite3-black?style=flat-square&logo=sqlite" />
 </p>
-<p align=center> <img src=https://visitor-badge.glitch.me/badge?page_id=BryanRfly alt=BryanRfly/> </p>
+<p align=center> <img src=https://visitor-badge.glitch.me/badge?page_id=HilmySakti alt=HilmySakti/> </p>
 <p align="center">
-  <a href="https://github.com/BryanRfly"><img src="https://github-readme-stats.vercel.app/api?username=BryanRfly&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+  <a href="https://github.com/HilmySakti"><img src="https://github-readme-stats.vercel.app/api?username=BryanRfly&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/BryanRfly"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BryanRfly&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+  <a href="https://github.com/HilmySakti"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BryanRfly&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
 <p align="center">
@@ -46,28 +46,16 @@
 
 # INTRODUCTING MY SELF 
 ```
-> Name: Bryan Raflyansah
-> Status: Student at SMPN 4 Boyolali
-> Address: Boyolali, Jawa Tengah, Inodonesia
-> Age: 15 Years Old
-> Date Of Birth: May 9,2006
+> Name: Hilmy Muhammad Zidane Aulany
+> Status: Student at SMPN 1 Malang
+> Address: Malang, Jawa Timur, Inodonesia
+> Age: 13 Years Old
+> Date Of Birth: December 20, 2007
 ```
 
- # SOSIAL MEDIA 
-
-
-* [![Instagram](https://img.shields.io/badge/Instagram-ff63f0?style=for-the-badge&logo=instagram&logoColor=white)](https://ig.me/bryanrflynsh)
-
-* [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287724880504)
-
-* [![Telegram](https://img.shields.io/badge/Telegram-009bff?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BryanRfly)
-
-# SUPPORT ME 
-
-* [![PayPal](https://img.shields.io/badge/Paypal-0033ef?style=for-the-badge&logo=paypal&logoColor=white)](https://link.dana.id/qr/2mumvsa3)
-
-
+# SUPPORT ME
+[TRAKTEER](https://trakteer.id/HilmyGaming87)
 <!---
-BryanRfly/BryanRfly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HilmySakti/HilmySakti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
